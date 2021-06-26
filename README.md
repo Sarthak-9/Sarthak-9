@@ -28,7 +28,7 @@
 
 ### My Projects:
 
-- Allay [Web](https://allay-convo.web.app/)  [App](https://drive.google.com/file/d/1RWS9tombZTRbRUi15oY5ePn0NBUCtWJS/view)
+- Allay: [Website](https://allay-convo.web.app/)  [Application](https://drive.google.com/file/d/1RWS9tombZTRbRUi15oY5ePn0NBUCtWJS/view)
 - YourDay
 - E-commerce App
 
