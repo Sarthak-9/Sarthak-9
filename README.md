@@ -1,5 +1,5 @@
-<h2 align='center'>Hi 👋This is Sarthak Saxena✨</h2>
-<h4 align='center'>I am an App Developer possessing proficient skills in Flutter Development and Data Structures & Algorithms to excell in the field of Computer Science and Technology</h4>
+<h2 align='center'>Hi! 👋This is Sarthak Saxena.✨</h2>
+<h4 align='center'>I am an App Developer possessing proficient skills in Flutter Development and Data Structures & Algorithms to excell in the field of Computer Science and Technology.</h4>
 
 ### My Socials: 
 
@@ -7,17 +7,18 @@
 
 ### About me
 
-- 🎓 B. Tech(2023) Undergraduate in Computer Science and Engineering in GL Bajaj Institute of Technology and Management, AKTU 🏛 .
+- 🎓 B. Tech(2023) Undergraduate in Computer Science and Engineering in GL Bajaj Institute of Technology and Management, AKTU.
 - 📫 Reach me at sarthaksaxena@gmail.com or through linkedin [Sarthak Saxena](https://www.linkedin.com/in/sarthak-saxena-447a311a8/)
 - 🛠  Proficient in App Development and Backend Technologies including Flutter, Dart, Java, Firebase, Google Cloud, C, C++ etc and polishing my DSA skills.
 - 🔭 Currently working as App Developement Intern at Megamind Education and Welfare Pvt. Ltd. Previously worked with YourDay as Flutter Development Intern.
+- 🚀 I am rated 3⭐ at @[Codechef](https://www.codechef.com/users/sarthaksaxena9)
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/19nYxhxxjK55CnMsXTIFr5STRfGbvexUQ/view?usp=sharing)
 
 ### Languages and Tools:
 
 <code><img height="27" src="https://firebasestorage.googleapis.com/v0/b/shopping-world-e9574.appspot.com/o/Flutter_Logo.png?alt=media&token=cd764a8f-81c6-4542-8e0e-a80f0d8af886" alt="Flutter"></code>
 <code><img height="27" src="https://firebasestorage.googleapis.com/v0/b/shopping-world-e9574.appspot.com/o/Dart_Logo.png?alt=media&token=cc9217e7-9b97-4bcd-b8ae-2adec0be5eb2" alt="Dart"></code>
-<code><img height="27" src="https://firebasestorage.googleapis.com/v0/b/shopping-world-e9574.appspot.com/o/png-transparent-java-programmer-computer-programming-logo-others-miscellaneous-text-logo.png?alt=media&token=eabbdfa7-2374-4796-93ab-c96493c91878" alt="Java"></code>
+<code><img height="27" src="https://firebasestorage.googleapis.com/v0/b/shopping-world-e9574.appspot.com/o/226777.png?alt=media&token=e84aa821-751f-40df-b82b-881c250002da" alt="Java"></code>
 <code><img height="27" src="https://firebasestorage.googleapis.com/v0/b/clone1-slack.appspot.com/o/firebase_logo.png?alt=media&token=8a9920f7-c61f-4b23-be82-cd5d7e456cdb" alt="Firebase"></code>
 <code><img height="27" src="https://firebasestorage.googleapis.com/v0/b/shopping-world-e9574.appspot.com/o/gcp-logo-cloud.png?alt=media&token=9777bb92-1290-4d57-a88f-62351e0cdab8" alt="Google Cloud"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="CPP"></code>
@@ -28,8 +29,8 @@
 ### My Projects:
 
 - [Allay](https://allay-convo.web.app/)
-- [YourDay]
-- [E-commerce App]
+- YourDay
+- E-commerce App
 
 <!--
 **Sarthak-9/Sarthak-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
