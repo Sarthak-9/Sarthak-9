@@ -1,5 +1,5 @@
 <h2 align='center'>Hi! 👋This is Sarthak Saxena.✨</h2>
-<h4 align='center'>I am an App Developer possessing proficient skills in Flutter Development and Data Structures & Algorithms to excell in the field of Computer Science and Technology.</h4>
+<h4 align='center'>I am a Full Stack and App Developer possessing proficient skills in Frontend, Backend and Flutter Development and Data Structures & Algorithms to excell in the field of Computer Science and Technology.</h4>
 
 ### My Socials: 
 
@@ -7,12 +7,12 @@
 
 ### About me
 
-- 🎓 B. Tech(2023) Undergraduate in Computer Science and Engineering in GL Bajaj Institute of Technology and Management, AKTU.
+- 🎓 B. Tech(2023) Graduate in Computer Science and Engineering in GL Bajaj Institute of Technology and Management, AKTU.
 - 📫 Reach me at sarthaksaxena@gmail.com or through linkedin [Sarthak Saxena](https://www.linkedin.com/in/sarthak-saxena-447a311a8/)
 - 🛠  Proficient in App Development and Backend Technologies including Flutter, Dart, Java, Firebase, Google Cloud, C, C++ etc and polishing my DSA skills.
 - 🔭 Currently working as App Developement Intern at Megamind Education and Welfare Pvt. Ltd. Previously worked with YourDay as Flutter Development Intern.
 - 🚀 Rated 3⭐ at @[Codechef](https://www.codechef.com/users/sarthaksaxena9). Qwiklab's profile [Google CLoud](https://www.qwiklabs.com/public_profiles/7f720efd-1b73-4b31-9393-e0b8f4cc6fd1)
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/18EUDrdFzGgnGSYu9EeZR4imket2Dai6S/view?usp=sharing)
+- 📝 Checkout my [Resume]([https://drive.google.com/file/d/18EUDrdFzGgnGSYu9EeZR4imket2Dai6S/view?usp=sharing](https://drive.google.com/drive/folders/11oUwuEUUaC_tsZFv7T1qjjus-1kCDEHP?usp=sharing))
 
 ### Languages and Tools:
 
