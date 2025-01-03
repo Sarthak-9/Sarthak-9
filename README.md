@@ -10,7 +10,7 @@
 - 🎓 B. Tech(2023) Graduate in Computer Science and Engineering in GL Bajaj Institute of Technology and Management, AKTU.
 - 📫 Reach me at sarthaksaxena@gmail.com or through linkedin [Sarthak Saxena](https://www.linkedin.com/in/sarthak-saxena-447a311a8/)
 - 🛠  Proficient in Fullstack and Mobile App Development and other technologies including Node.js, React.js, JavaScript, Express.js, TypeScript, Next.js, Flutter, Dart, React Native, C/C++.
-- 🔭 Currently working as SDE-1 (Fullstack) at AdmitKard with majors in Backend Development. Previously worked as Mobile App Developement Intern at Megamind Education and Welfare Pvt. Ltd. and They Sway.
+- 🔭 Currently working as SDE-2 (Fullstack) at AdmitKard with majors in Backend Development. Previously worked as Mobile App Developement Intern at Megamind Education and Welfare Pvt. Ltd. and They Sway.
 - 🚀 Rated 3⭐ at @[Codechef](https://www.codechef.com/users/sarthaksaxena9). Qwiklab's profile [Google CLoud](https://www.qwiklabs.com/public_profiles/7f720efd-1b73-4b31-9393-e0b8f4cc6fd1)
 - 📝 Checkout my [Resume](https://drive.google.com/drive/u/0/folders/11oUwuEUUaC_tsZFv7T1qjjus-1kCDEHP)
 
